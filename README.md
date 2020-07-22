@@ -15,7 +15,7 @@ Atualmente sou professor de programação, robótica e designer gráfico.
 - 📚 Adquirindo conhecimento em React Native
 - 📚 Adquirindo conhecimento em Flutter (Dart)
 
-### Conhecientos
+### Conhecientos💾
 
 - Java
 - JavaScript
