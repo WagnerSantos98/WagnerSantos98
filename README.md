@@ -1,21 +1,21 @@
-### Wagner Santos!💻
+# Wagner Santos!💻
 
 Me chamo Wagner Santos e compartilho aqui projetos pessoais e de profissional.
 
-# Sou desenvolvedor👨‍💻
+### Sou desenvolvedor👨‍💻
 
 Atualmente sou professor de programação, robótica e designer gráfico.
 
-# Graduação🎓
+### Graduação🎓
 
 - 🗞 Formado em Análise e Desenvolvimento de Sistema (Centro Universitário UNIFAAT)
 
-# Estudos📖
+### Estudos📖
 
 - 📚 Adquirindo conhecimento em React Native
 - 📚 Adquirindo conhecimento em Flutter (Dart)
 
-# Conhecientos
+### Conhecientos
 
 - Java
 - JavaScript
@@ -25,13 +25,13 @@ Atualmente sou professor de programação, robótica e designer gráfico.
 - SQL
 - Phyton
 
-# Sonhos🔮
+### Sonhos🔮
 
 - Poder crescer profissionalmente
 - Poder contribuir em algo na vida
 - E poder transmitir meus conhecimentos 
 
-# Encontre-me🗺
+### Encontre-me🗺
 
 📩 Email: wagner.jesus98@outlook.com
 💼 LinkedIn: https://www.linkedin.com/in/wagnersjesus/
