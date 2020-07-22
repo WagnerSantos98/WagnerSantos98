@@ -33,6 +33,6 @@ Atualmente sou professor de programação, robótica e designer gráfico.
 
 ### Encontre-me🗺
 
-📩 Email: wagner.jesus98@outlook.com
-💼 LinkedIn: https://www.linkedin.com/in/wagnersjesus/
-🔗 Instagram: https://www.instagram.com/wagner.santos3198/
+- 📩 Email: wagner.jesus98@outlook.com
+- 💼 LinkedIn: https://www.linkedin.com/in/wagnersjesus/
+- 🔗 Instagram: https://www.instagram.com/wagner.santos3198/
