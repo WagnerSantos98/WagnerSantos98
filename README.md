@@ -4,7 +4,7 @@ Me chamo Wagner Santos e compartilho aqui projetos pessoais e de profissional.
 
 ### Sou desenvolvedor👨‍💻
 
-Atualmente sou professor de programação, robótica e designer gráfico.
+Atualmente trabalho com suporte de Ti, mas com conhecimento e interesse em diversas áreas.
 
 ### Graduação🎓
 
