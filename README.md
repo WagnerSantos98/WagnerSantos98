@@ -9,6 +9,7 @@ Atualmente trabalho com suporte de TI, mas com conhecimento e interesse em diver
 ### Graduação🎓
 
 - 🗞 Formado em Análise e Desenvolvimento de Sistema (Centro Universitário UNIFAAT)
+- 🗞 Cursando Engenharia da Computação (Univesidade São Francisco USF)
 
 ##
 
