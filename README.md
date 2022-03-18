@@ -4,7 +4,7 @@ Me chamo Wagner Santos e compartilho aqui projetos pessoais e de profissional.
 
 ### Sou desenvolvedor👨‍💻
 
-Atualmente trabalho com suporte de Ti, mas com conhecimento e interesse em diversas áreas.
+Atualmente trabalho com suporte de TI, mas com conhecimento e interesse em diversas áreas.
 
 ### Graduação🎓
 
