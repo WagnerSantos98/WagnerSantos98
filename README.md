@@ -1,6 +1,6 @@
 # Wagner Santos!💻
 
-Me chamo Wagner Santos e compartilho aqui projetos pessoais e de profissional.
+Me chamo Wagner Santos e compartilho aqui projetos pessoais e profissional.
 
 ### Sou desenvolvedor👨‍💻
 
