@@ -8,7 +8,7 @@ Atualmente trabalho com suporte de TI, mas com conhecimento e interesse em diver
 
 ### Graduação🎓
 
-- 🗞 Cursando Engenharia da Computação (Univesidade São Francisco USF)
+- 🗞 Cursando Pós-Graduação em Data Science (Univesidade São Francisco USF)
 - 🗞 Formado em Análise e Desenvolvimento de Sistema (Centro Universitário UNIFAAT)
 
 
