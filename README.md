@@ -4,7 +4,10 @@ Me chamo Wagner Santos e compartilho aqui projetos pessoais e profissional.
 
 ### Sou desenvolvedor👨‍💻
 
-Atualmente trabalho com suporte de TI, mas com conhecimento e interesse em diversas áreas.
+Atualmente trabalho com suporte de TI em rotinas de preparação de equipamentos para aulas e eventos para docentes, discentes e funcionários.
+Configuração de computadores e internet para uso dos mesmos. Manutenção em equipamentos de TI (computadores, impressoras, switches e projetores)
+Utilização de plataforma GSuite, GLPI e Active Directory (Citrix) para atendimentos de chamados técnicos.
+Suporte ao usuário N1, N2 e N3. E sempre buscando conhecimento e interesse em diversas áreas.
 
 ### Graduação🎓
 
