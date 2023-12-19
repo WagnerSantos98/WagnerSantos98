@@ -10,7 +10,7 @@ Utilização de plataforma GSuite, GLPI e Active Directory (Citrix) para atendim
 Suporte ao usuário N1, N2 e N3. E sempre buscando conhecimento e interesse em diversas áreas.
 
 ### Graduação🎓
-- 🗞 Engenharia de Software (Univesidade São Francisco USF)
+- 🗞 Cursando Engenharia de Software (Univesidade São Francisco USF)
 - 🗞 Pós-Graduação em Data Science (Univesidade São Francisco USF)
 - 🗞 Formado em Análise e Desenvolvimento de Sistema (Centro Universitário UNIFAAT)
 
