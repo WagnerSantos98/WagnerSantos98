@@ -1,13 +1,7 @@
-# Wagner Santos!💻
+# Olá, eu sou o Wagner Santos
 
-Me chamo Wagner Santos e compartilho aqui projetos pessoais e profissionais.
-
-### Sou desenvolvedor👨‍💻
-
-Atualmente trabalho com suporte de TI em rotinas de preparação de equipamentos para aulas e eventos para docentes, discentes e funcionários.
-Configuração de computadores e internet para uso dos mesmos. Manutenção em equipamentos de TI (computadores, impressoras, switches e projetores)
-Utilização de plataforma GSuite, GLPI e Active Directory (Citrix) para atendimentos de chamados técnicos.
-Suporte ao usuário N1, N2 e N3. E sempre buscando conhecimento e interesse em diversas áreas.
+💻 Desenvolvedor Back-end focado em APIs, automação e soluções orientadas a dados.  
+🚀 Experiência prática em ambientes reais, atuando na interseção entre tecnologia, educação e resolução de problemas.
 
 ### Graduação🎓
 - 🗞 Cursando Engenharia de Software (Univesidade São Francisco USF)
