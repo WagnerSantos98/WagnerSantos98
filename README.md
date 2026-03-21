@@ -6,11 +6,24 @@
 🌐 Portfólio: https://wagnersantos.dev.br  
 🔗 LinkedIn: https://www.linkedin.com/in/wagnersjesus
 
-### Graduação🎓
-- 🗞 Cursando Engenharia de Software (Univesidade São Francisco USF)
-- 🗞 Pós-Graduação em Data Science (Univesidade São Francisco USF)
-- 🗞 Formado em Análise e Desenvolvimento de Sistema (Centro Universitário UNIFAAT)
+---
 
+##  Projetos em destaque
+
+🔹 API REST (Spring Boot)  
+Autenticação JWT, controle de usuários e boas práticas de arquitetura  
+
+🔹 Automações institucionais  
+Scripts com Google Apps Script para otimização de processos  
+
+---
+
+## 🛠️ Stack
+
+<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> • Spring Boot • JavaScript • Node.js • Python  
+React • PostgreSQL • MySQL • Docker  
+
+---
 
 ##
 
