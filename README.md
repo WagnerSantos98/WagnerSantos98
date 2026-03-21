@@ -1,4 +1,4 @@
-# Olá, eu sou o Wagner Santos
+# Olá, eu sou o Wagner
 
 💻 Desenvolvedor Back-end focado em APIs, automação e soluções orientadas a dados.  
 🚀 Experiência prática em ambientes reais, atuando na interseção entre tecnologia, educação e resolução de problemas.
