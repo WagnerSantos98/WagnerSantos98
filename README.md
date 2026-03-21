@@ -3,6 +3,9 @@
 💻 Desenvolvedor Back-end focado em APIs, automação e soluções orientadas a dados.  
 🚀 Experiência prática em ambientes reais, atuando na interseção entre tecnologia, educação e resolução de problemas.
 
+🌐 Portfólio: https://wagnersantos.dev.br  
+🔗 LinkedIn: https://www.linkedin.com/in/wagnersjesus
+
 ### Graduação🎓
 - 🗞 Cursando Engenharia de Software (Univesidade São Francisco USF)
 - 🗞 Pós-Graduação em Data Science (Univesidade São Francisco USF)
